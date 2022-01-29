@@ -1,0 +1,272 @@
+Manifest-Version: 1.0
+
+Name: manifest.json
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: NfXU091yQA/v6WK7LVw/zA==
+SHA1-Digest: xfJDL/+DNe5LLAhyU7ABQ28MjUA=
+
+Name: background_scripts/background.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: tjQSK8Os6j9dBMHa6fOdWg==
+SHA1-Digest: PfH4liAfN7OYMIwf2d7uf41p7CM=
+
+Name: background_scripts/messages.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: gtuStFKijBpIBtH88YjZZA==
+SHA1-Digest: /eRdMaNa8oWY3L6qcz5PhIAzRIM=
+
+Name: background_scripts/tab_blocked_features.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: p0Ft6GYzPz1VAjKM69bhVw==
+SHA1-Digest: cqe3sgfIkjBamC7PtVIWeja33P4=
+
+Name: config/index.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: KPvHk4mmH8s4JCKwqk7YjA==
+SHA1-Digest: ulAj3nAE5I7lmoIcwPHahGF6OXQ=
+
+Name: config/css/bootstrap-theme.min.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: q2sC7+rxeOAke5UEBRRy+w==
+SHA1-Digest: glZXU3T0MEdr3NSd6Yx3mQIpzjE=
+
+Name: config/css/bootstrap-theme.min.css.map
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: X1h7gAIV7iaO/SZ2rAELJQ==
+SHA1-Digest: h/ff1513BRrC7KfQk9lh+9HI9us=
+
+Name: config/css/bootstrap.min.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: RQ/EY7ixo0nfcXBW+7PgeA==
+SHA1-Digest: iVElpFIqOxDuetoG7mUDWHy/lcU=
+
+Name: config/css/bootstrap.min.css.map
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Nbeevgt4BcHIRSStkg+qMw==
+SHA1-Digest: 4NeyveVaC6wbZYpQfoykkaZyngY=
+
+Name: config/css/config.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: vF3fnJuKQ/RGgocxTwisUw==
+SHA1-Digest: BTLo75mdGC0ZxOGRG7hGvWW+So0=
+
+Name: config/fonts/glyphicons-halflings-regular.eot
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 9Hafm9t0Zr5lCII5wSBG0Q==
+SHA1-Digest: hrb2K3hT5n0+Y19lEqWl78WOo8M=
+
+Name: config/fonts/glyphicons-halflings-regular.svg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: iYiWiBR711ddYycWDWTnYA==
+SHA1-Digest: 3lGoSUGAptsHSvLe4jg/CjY8Wwg=
+
+Name: config/fonts/glyphicons-halflings-regular.ttf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 4Yu/YR8qLkOvwHGqL04VEg==
+SHA1-Digest: RLwYUPVwlyJnsWmuGPHLBrYR/6I=
+
+Name: config/fonts/glyphicons-halflings-regular.woff
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: +idyMn9V2BmDAf24vPyBWA==
+SHA1-Digest: J45JqG5jTabyoC87R92dKo8mIQ8=
+
+Name: config/fonts/glyphicons-halflings-regular.woff2
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: RIw0pW1pnCkRetxkxDr/6w==
+SHA1-Digest: yjW2l9mcrk0bYPLWD803dxmH6wc=
+
+Name: config/js/state.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Ca0qiPzTrJkp7I5rwbsSLA==
+SHA1-Digest: okShjCnC2X3ArIABquHWf4H/es4=
+
+Name: config/js/third_party/vue.runtime.min.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: U+8mY32O2uLzrGjQiEQ8bQ==
+SHA1-Digest: TwPZJtnT5IALQtDJ7Zq96OAnUuY=
+
+Name: config/js/vue_compiled_templates/advanced-options.vue.html.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: eMygP/jeO271dWDIZkpWfg==
+SHA1-Digest: mzkB4r46gpoDP5KJ6ba+JQLYqvs=
+
+Name: config/js/vue_compiled_templates/blocking-rules.vue.html.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: CBd6mHJjxx58OX7PqzGR1Q==
+SHA1-Digest: OpYpH9P1DkPozMxmyT/yj2zpScw=
+
+Name: config/js/vue_compiled_templates/config-root.vue.html.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 4WQAwrObhDqbw8Af+S5YHw==
+SHA1-Digest: /L3qfWRtesDiSuhZLIsaIP5fXHc=
+
+Name: config/js/vue_compiled_templates/import-export.vue.html.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: cZ0GJrFzNfKwBIvb08EqKg==
+SHA1-Digest: Npd1wU73rTK3OWOJRDrmGoyVMjI=
+
+Name: config/js/vue_compiled_templates/web-api-standards.vue.html.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: uvZ4/3qTp7HRnFAz8hCUuw==
+SHA1-Digest: omqXAWg38oH2lj+CDQvTxuGadOQ=
+
+Name: config/js/vue_components/advanced-options.vue.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 3Xp20WELJUfywo9MvukKCg==
+SHA1-Digest: Ni78q5eDw0N/dr83BMySyC/16jc=
+
+Name: config/js/vue_components/blocking-rules.vue.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: FUgwoRddTVFQq319jvfZZA==
+SHA1-Digest: ggZyFbgP8jj+koxVRWP0jaY+6To=
+
+Name: config/js/vue_components/config-root.vue.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: O+2NXHs6eXaAw7snipWFOw==
+SHA1-Digest: QSXfNN/yh3LjD59WfHu9lRHRl5U=
+
+Name: config/js/vue_components/import-export.vue.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 5w36yTWIxZyi4bn4CUELqQ==
+SHA1-Digest: fNfD2JZQXv7Y0hYD8BxWIMRfwrE=
+
+Name: config/js/vue_components/web-api-standards.vue.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: fEhcXiPZWdGG9CMOMAr5IQ==
+SHA1-Digest: A3A+I6H6/BypS8blY6VBxn9G7Fo=
+
+Name: content_scripts/instrument.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: LqpBuke4Mh8LayBsqjiHOw==
+SHA1-Digest: wT+BM88/4EzC3VjrxCv/6CudrVs=
+
+Name: images/uic-128.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: lxSxdDMPAw/M0/EHk05ZpA==
+SHA1-Digest: MAn9OycvmLcIkK3ZqIwkrfiAxHU=
+
+Name: images/uic-48.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Ce91KcXVFbIueHFYQhUIqQ==
+SHA1-Digest: ytrXgyseeBBxqwfaGjqwe1HwT/o=
+
+Name: lib/blockrules.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: OSIB8kDhLmcKDSGFaDfMDg==
+SHA1-Digest: dRP4kKFn09TLa7tLlHjbDV7+1i0=
+
+Name: lib/browser.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: JeOB7mV3RY2t6WdLvaEVoQ==
+SHA1-Digest: QQtCvBEqn4SjSBvt1K6HsNSakVc=
+
+Name: lib/categories.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: UvwXQthNJG+mt6wJmh0q2A==
+SHA1-Digest: kN+R0qqtsoqhZ7RsIFEASG0T4GQ=
+
+Name: lib/cookieencoding.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: lPpU1hl45JKhiGDUsyKfTQ==
+SHA1-Digest: lR9A6qKrf0hWSaGH6jgmcmSXSF0=
+
+Name: lib/defaults.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: JExg9IsKDWN1dn4hs2W3LQ==
+SHA1-Digest: xPtC/OPKOL2S+1PXQZI4V0iFc+k=
+
+Name: lib/httpheaders.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: s7P5Af0p+biFdH4X6arGpg==
+SHA1-Digest: oeuuiAoTt7iqJl6tmIo1w83h/6s=
+
+Name: lib/init.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: AIBm+wT3FyxiSd/jYt521A==
+SHA1-Digest: 0rf9RE3cHnXvG284J2hRklWdgqg=
+
+Name: lib/migration.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: EU4eMHrVY58NKShWd4uuMA==
+SHA1-Digest: rA46yuILBx9+hs+W2RGSfv5t4Rg=
+
+Name: lib/pack.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: nDd4EUF6WEd5C333F3w0Lg==
+SHA1-Digest: VvoVDng0/OqPB6ejUyRIE52W9to=
+
+Name: lib/preferences.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: UkfRuLDP7htJ3nBj+V8QnQ==
+SHA1-Digest: dFEdJe47IHraSII2yjUDRG8S3Xw=
+
+Name: lib/proxyblock.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: rOJPmp5zeKP7Cq2Cm6Tc6Q==
+SHA1-Digest: ijgcGhK098QeIqifFwQeGdVNyQw=
+
+Name: lib/reports.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: oN2VNOCyPr2mnbcb0tW2ww==
+SHA1-Digest: B7WHzo1Ofvu2KbpeTW2mvVvv1Ww=
+
+Name: lib/standards.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 9SqonHRszUUOfOCqqMniNw==
+SHA1-Digest: QD1sSi9tpjybty09B16E/Y/KUuE=
+
+Name: lib/storage.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: KsOR3inSJ/lzXTF/N2nFSw==
+SHA1-Digest: ynp6EM3ORGPKgBstxzZB99sbtzY=
+
+Name: lib/third_party/js.cookie.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: bp6x9Tr7E1rtr5BznIZ3OA==
+SHA1-Digest: mzeXOpD9UOceqRaCJlcV5FroLHU=
+
+Name: lib/third_party/sjcl.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Clhj2bgBIRHVjB5Dw0ZBbQ==
+SHA1-Digest: SiNBUQJXMgoybOpTbh6QA76LFis=
+
+Name: lib/third_party/uri.all.min.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: lIYmoL+WbFrfZfcH8PQ2tA==
+SHA1-Digest: aEWu4IDSk6zXoC0pgfzBQAArjDc=
+
+Name: pages/popup/popup.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: s3nfXMe0h4+d86FmAYor/w==
+SHA1-Digest: s4aD7IOZ1YmA90jd+TNnbv/ywLY=
+
+Name: pages/popup/css/popup.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: AM6vsym/Ljc9QXjXdmhNTQ==
+SHA1-Digest: JD1cAeVhIn/4jEQuvFADgCkdFvE=
+
+Name: pages/popup/js/popup.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: kVH/OWBaunnNp/pEEUtQzw==
+SHA1-Digest: zHt5+/COS0VwBjXg1cgKS3ye/FI=
+
+Name: pages/report/report-json.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: xRshl/V61ta7Xk7H/gue5g==
+SHA1-Digest: 57FweFzJg5rBymJL9Aq+rpeA8dA=
+
+Name: pages/report/report.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 4NBOf/sILDw4jg86TzAKhA==
+SHA1-Digest: KHVpZvK1QXXbTW3ckhTiUuGa7jY=
+
+Name: pages/report/js/report-json.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: bvUs9QgjAwZXFM49OeAcEA==
+SHA1-Digest: wROShCkNyacs4AyAFwIByNf53kk=
+
+Name: pages/report/js/report.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: EGXXKPM/s9tzNLTL671Zrw==
+SHA1-Digest: VoX8uKfj8JkcRss+OuSqIkq7rMU=
+
